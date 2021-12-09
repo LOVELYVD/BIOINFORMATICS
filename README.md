@@ -1,1 +1,1 @@
-# BinInformatics
+# BioInInformatics
