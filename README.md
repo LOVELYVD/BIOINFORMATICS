@@ -1,1 +1,1 @@
-# BIOINFORMATICS
+# BinInformatics
